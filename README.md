@@ -10,3 +10,7 @@
 ## オープンデータ
 
 - [福井の地盤オープンデータ](https://github.com/geofukui/jiban-opendata) ([詳細一部](https://github.com/geofukui/jiban-opendata-detail-sample))
+
+## アイデア
+
+- [Issueとして書いていきます](https://github.com/GeoFUKUI/idea/issues)
